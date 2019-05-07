@@ -1,0 +1,12 @@
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\CustomerDB.exe.config
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\CustomerDB.exe
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\CustomerDB.pdb
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\EntityFramework.dll
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\EntityFramework.xml
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\obj\Debug\CustomerDB.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\obj\Debug\CustomerDB.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\obj\Debug\CustomerDB.csproj.CopyComplete
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\obj\Debug\CustomerDB.exe
+C:\Users\yulia\source\repos\CustomerDB\CustomerDB\obj\Debug\CustomerDB.pdb
